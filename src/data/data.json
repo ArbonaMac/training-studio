@@ -1,0 +1,19 @@
+{
+    "caption":{ 
+            "subtitle":"WORK HARDER, GET STRONGER",
+            "title":"EASY WITH OUR",
+            "titleInner":"GYM",
+            "buttonText":"Become a member"
+         
+    } ,
+    "programs":{
+        "mainTitle":"Choose",
+        "maintitleSpan":"program",
+        "description":"Training studio is free CSS template for gyms and fitness centers",
+       "programs":[
+           {"title":"Basic fitnes","description":"Lorem ipsum"},
+           {"title":"New Gym training","description":"Lorem ipsum"},
+           {"title":"Basic muscle course","description":"Lorem ipsum"}
+       ]
+    }
+}
